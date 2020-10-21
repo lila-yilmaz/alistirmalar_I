@@ -1,3 +1,4 @@
+Sum=0
 for n in range(1,k):
 	Sum+=(1/ n**2)
 
